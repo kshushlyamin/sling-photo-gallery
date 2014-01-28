@@ -16,7 +16,7 @@
 <h1><%=attributes.get("description") %></h1>
 <p/>
 
-<img src="<%=resource.getPath() %>/picture" width="100px" />
+<img src="<%=resource.getPath() %>/thumbnails/picture_100" width="100px" />
 
 <br/>
 
