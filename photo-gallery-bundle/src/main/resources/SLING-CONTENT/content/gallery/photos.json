@@ -1,0 +1,5 @@
+{
+    "jcr:primaryType": "nt:unstructured",
+    "jcr:title": "Photo gallery",
+    "sling:resourceType": "gallery/photos"
+}
