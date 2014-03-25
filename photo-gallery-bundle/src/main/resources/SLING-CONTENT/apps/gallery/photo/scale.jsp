@@ -13,7 +13,7 @@
     // final String albumName = ResponseUtil.escapeXml(ResourceUtil.getValueMap(resource.getParent()).get("jcr:title", resource.getParent().getName()));
 %>
 
-<h1><%=attributes.get("description") %></h1>
+<h1>Description: <%=attributes.get("description") %></h1>
 <p/>
 
 <img src="<%=resource.getPath() %>/thumbnails/picture_100" width="100px" />
